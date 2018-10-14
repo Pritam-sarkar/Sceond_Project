@@ -1,0 +1,139 @@
+header{
+    background-color: cornflowerblue;
+    padding: 5px;
+}
+.left-content {
+    width: 50%;
+    float: left;
+    margin-top: 1px;
+    text-align: center;
+}
+.navbar{ text-align: center;}
+.navbar ul{}
+.navbar ul li{ list-style: none;
+display: inline-block;
+margin-left: 30px;
+}
+.navbar ul li a{ text-decoration: none;}
+.navbar ul li a:hover {color: chartreuse;}
+h1{
+    text-align: center;
+    margin-left: 50px;
+    color:yellowgreen;
+    
+    
+}
+.banner-area { text-align: left;
+    background-color: #040505;
+    height: 500px;
+    text-align: left;
+   
+    
+     }
+img { text-align: center;
+    width: 30%;
+
+}
+.service-area{
+    text-align: right;
+    width: 110%;
+    
+}
+
+h2 {text-align: center;}
+.service-one {
+    width: 29.33%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+    transition: all .4s;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+   
+    
+}
+.service-t {
+    float: left;
+    width: 29.33%;
+    text-align: right;
+    transition: all .4s;
+}
+.service-three {
+    width: 29.33%;
+    text-align: left;
+    float: left;
+    transition: all .4s;
+    
+}
+.information-area{
+    text-align: center;
+    margin: 5px;
+    float: left;
+    display: inline-block;
+    background: skyblue;
+    height: 300px;
+}
+.about {
+    text-align: center;
+    
+    
+}
+from {
+    text-align: center;
+    
+}
+button {
+   background: skyblue;
+}
+.box-area {
+    text-align: center;
+    
+}
+textarea {
+    table-layout: right;
+}
+.service-one:hover{
+    transform: translateY(-15px)
+  
+}
+.service-t:hover {
+    transform: translateY(-15px)
+}
+.service-three:hover{
+    transform: translateY(-15px)
+    
+}
+.footer-area{
+    text-align: center;
+    background: navy;
+    color: peachpuff;
+    height: 250px;
+    margin: 0px auto;
+}
+.container{
+    text-align: justify;
+  margin-left: 250px;
+    height: 0px;
+}
+.scond-footer{
+    text-align: right;
+    margin-right: 250px;
+    height:50px;
+}
+.about-us {
+    text-align: justify;
+    position: absolute;
+}
+.footer-end {
+    background: black;
+    color: chartreuse;
+    text-align: center;
+padding: 20px;
+}
+i {
+    display: inline-block;
+    margin-left: 25px;
+    
+}
